@@ -1,2 +1,2 @@
-# Otobu-s-Firma-Projesi
+# Otobus-Firma-Projesi
 Otobüs Firması Bilet Satış Sitesi - PHP Projesi
