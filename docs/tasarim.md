@@ -316,7 +316,7 @@ flowchart TB
 
 ## 5. Tasarım Desenleri
 
-### 5.1 Repository Pattern (Zorunlu)
+### 5.1 Repository Pattern 
 
 | Başlık         | Açıklama                                                                                                                  |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -397,11 +397,3 @@ flowchart LR
 
 ---
 
-
-### 8.1 Kilometre Taşları
-
-| Kilometre taşı | İçerik                                                                                            | Hedef     |
-| -------------- | ------------------------------------------------------------------------------------------------- | --------: |
-| **Sunum 1**    | Proje iskeleti, PSR-4 autoload, `docs/tasarim.md` ve backlog panosu                               | 4. Hafta  |
-| **Sunum 2**    | Aşama 2: JSON depolama, kural motorları (`EtapCakisma`, `KoltukKilitService`) ve PHPUnit testleri | 8. Hafta  |
-| **Sunum 3**    | Aşama 3: MySQL / PDO entegrasyonu, eşzamanlılık kilitleri, arayüz ve final teslimi                | 12. Hafta |
