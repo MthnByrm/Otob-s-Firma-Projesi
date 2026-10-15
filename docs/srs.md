@@ -59,11 +59,10 @@ Bu yazılım, otobüs firmalarının sefer düzenleme, araç filosu yönetme ve 
 
 **4** 
 
-## **2.3) Class Diyagramı ve ** 
+## **2.3) Class Diyagramı  ** 
 
+<img width="2048" height="1529" alt="class_diyagram" src="https://github.com/user-attachments/assets/48543963-6f59-410b-b1d5-6d85d8fd8f2b" />
 
-
-<img width="1376" height="768" alt="classdiyagram" src="https://github.com/user-attachments/assets/484bca28-20d5-427d-be78-31dfd68a2cc0" />
 
 
 ## 2 **.4) ER Diyagramı** 
